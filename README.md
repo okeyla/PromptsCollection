@@ -1,0 +1,2 @@
+# PromptsCollection
+prompts for AI
